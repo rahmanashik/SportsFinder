@@ -1,0 +1,27 @@
+li.active{
+	background-color: cornflowerblue;
+    border-radius: 5px;
+    color: #fff;
+}
+
+nav.navbar{
+	background-color: #006699;
+}
+
+div.nav-container {
+	padding:0px;
+}
+
+.featured-game-card-title{
+	padding:0px;
+}
+
+.carousel-item{
+	background-color: #101010;
+}
+
+.display-3{
+	color: #FFFFFF;
+text-shadow: 1px 2px 3px #666;
+
+}
